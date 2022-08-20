@@ -154,6 +154,7 @@ common defaults
     Glob >=0.10.2 && <0.11,
     haskeline >=0.8.2 && <0.9,
     language-javascript ==0.7.0.0,
+    language-lua >=0.11.0.1 && <0.12,
     lens >=5.1.1 && <5.2,
     lifted-async >=0.10.2.2 && <0.11,
     lifted-base >=0.2.3.12 && <0.3,
@@ -211,6 +212,7 @@ library
     Language.PureScript.CodeGen.JS
     Language.PureScript.CodeGen.JS.Common
     Language.PureScript.CodeGen.JS.Printer
+    Language.PureScript.CodeGen.Lua
     Language.PureScript.Constants.Prelude
     Language.PureScript.Constants.Data.Generic.Rep
     Language.PureScript.Constants.Data.Newtype
